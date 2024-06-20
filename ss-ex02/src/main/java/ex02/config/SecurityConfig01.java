@@ -3,7 +3,6 @@ package ex02.config;
 import ex02.filter.MySecurityFilter01;
 import ex02.filter.MySecurityFilter02;
 import ex02.filter.MySecurityFilter03;
-import ex02.filter.MySecurityFilter04;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.web.FilterChainProxy;
