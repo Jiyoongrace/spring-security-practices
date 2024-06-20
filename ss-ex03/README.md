@@ -103,7 +103,7 @@
 #### Spring Security 설정2(xml): SecurityBuilder 사용
 1. 자동(auto, 기본) 설정
 2. ex03/config/SecurityConfig01.xml
-3. 테스트: ex03.config.SecurityConfig01Test
+3. 테스트: ex03.config.ex02.config.SecurityConfig01Test
 4. filters order
 	<pre>
 	01. ChannelProcessingFilter

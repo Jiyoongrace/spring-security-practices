@@ -20,7 +20,7 @@
 1. Filter Chain 0: "/assets/**" -> []
 2. Filter Chain 1: "/**"        -> [MySecurityFilter01, MySecurityFilter02, MySecurityFilter03] 
 3. 설정: ex02.config.SecurityConfig01
-4. 테스트: ex02.config.SecurityConfig01Test
+4. 테스트: ex02.config.ex02.config.SecurityConfig01Test
 
 
 

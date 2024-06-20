@@ -5,7 +5,7 @@
 #### Configuration01 - Custom SecurityBuilder
 1. Test
 	- configuration: ex04.config.SecurityConfig01
-	- test: ex04.config.SecurityConfig01Test
+	- test: ex04.config.ex02.config.SecurityConfig01Test
 2. formLogin()
 	- FormLoginConfigurer
 3. filters order
